@@ -19,7 +19,7 @@ import com.github.scribejava.core.model.OAuthConfig;
  */
 public class MicrosoftAzureActiveDirectoryApi extends DefaultApi20 {
 
-    private static final String MSFT_GRAPH_URL = "https://graph.windows.net";
+    private static final String MSFT_GRAPH_URL = "https://graph.microsoft.com";
 
     private static final String MSFT_LOGIN_URL = "https://login.microsoftonline.com";
     private static final String SLASH = "/";
